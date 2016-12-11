@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+#
+# Test Harness for the LG tvControl Class
+#
 import pytv
 import time
 
